@@ -1,7 +1,7 @@
 
 # Aligning Alignments Problem - Project D
-December 06 2018  
-CSCI 652 - Algorithmic Bioinformatics 1
+RTL December 06 2018  
+RTL CSCI 652 - Algorithmic Bioinformatics 1
 
 ## Team
 Adam Olderr  
