@@ -1,17 +1,17 @@
 
 # Aligning Alignments Problem - Project D
-<div style="text-align: right"> December 06 2018 </div>
-<div style="text-align: right"> CSCI 652 - Algorithmic Bioinformatics 1 </div>
+December 06 2018  
+CSCI 652 - Algorithmic Bioinformatics 1
 
-## Team:
-Adam Olderr
-Bharat Kale
-Christian Bailey
+## Team
+Adam Olderr  
+Bharat Kale  
+Christian Bailey  
 
-## Objective:
+## Objective
 
-## Framework:
+## Framework
 
-## Experimental Design:
+## Experimental Design
 
-## Results:
+## Results
